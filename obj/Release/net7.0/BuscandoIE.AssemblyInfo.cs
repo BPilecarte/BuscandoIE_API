@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuscandoIE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b2bea3a8063738ff835e5c388e9a7c3d8f3e7eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuscandoIE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuscandoIE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

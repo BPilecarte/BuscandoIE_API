@@ -74,3 +74,4 @@ C:\Users\beatr\OneDrive - Etec Centro Paula Souza\Atividades_ETEC\2DS\DS\Trabalh
 C:\Users\beatr\OneDrive - Etec Centro Paula Souza\Atividades_ETEC\2DS\DS\TrabalhoConclusaoDisciplina\BuscandoIE\obj\Release\net7.0\BuscandoIE.pdb
 C:\Users\beatr\OneDrive - Etec Centro Paula Souza\Atividades_ETEC\2DS\DS\TrabalhoConclusaoDisciplina\BuscandoIE\obj\Release\net7.0\BuscandoIE.genruntimeconfig.cache
 C:\Users\beatr\OneDrive - Etec Centro Paula Souza\Atividades_ETEC\2DS\DS\TrabalhoConclusaoDisciplina\BuscandoIE\obj\Release\net7.0\ref\BuscandoIE.dll
+C:\Users\beatr\OneDrive - Etec Centro Paula Souza\Atividades_ETEC\2DS\DS\TrabalhoConclusaoDisciplina\BuscandoIE\obj\Release\net7.0\BuscandoIE.sourcelink.json

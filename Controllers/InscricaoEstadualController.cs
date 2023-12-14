@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
 namespace BuscandoIE.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[inscricao]")]
 
     public class InscricaoEstadualController : ControllerBase
     {
